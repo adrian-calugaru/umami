@@ -3,6 +3,7 @@ include("Functions/connect.php");
 ?>
 <!DOCTYPE html>
 <html>
+<p>I have modified this file</p>
 <head>
 <link rel="stylesheet" type="text/css" href="CSS/Layout.CSS">
 <link rel="stylesheet" type="text/css" href="CSS/Menu.CSS">
